@@ -1,0 +1,1 @@
+StateOfMind.o: ../StateOfMind.c
